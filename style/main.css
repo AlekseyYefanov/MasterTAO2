@@ -1,0 +1,14 @@
+body {
+    font-family: 'ProximaRg';
+}
+
+nav ul a {
+    text-decoration: none;
+    font-family: 'ProximaBold';
+}
+
+.slider-item p {
+    text-indent: 50px;
+    font-family: 'Lobster', sans-serif;
+    
+}
