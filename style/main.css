@@ -12,3 +12,8 @@ nav ul a {
     font-family: 'Lobster', sans-serif;
     text-transform: uppercase;
 }
+
+.why-us-item img {
+    background: greenyellow;
+    border-radius: 50%;;
+}
